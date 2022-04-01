@@ -1,3 +1,5 @@
+<a href="benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 # Hedong HOU
 
 I am a Master 2 student of the joint program "[M2 de Mathématiques fondamentales](https://master-math-fonda.imj-prg.fr/index.php)" by École Normale Superieure, Sorbonne Université, Université de Paris, and Université Sorbonne Paris Nord. I am registered in Université de Paris, widely-known as "Université de Paris VII-Diderot". Since March 2022, the name has been changed to "[Université Paris Cité](https://u-paris.fr)". 
@@ -31,12 +33,11 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
 
 ## Miscellaneous
 
-<misintrohaII href="benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF.</misintrohaII>
 <misintrohaI href="benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__I__Interpolation_and_Calderon_Zygmund_theory.pdf" target="_blank">PDF.</misintrohaI>
 <misNS href="benahou.github.io/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF.</misNS>
 <misPoincarerot href="benahou.github.io/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF.</misPoincarerot>
 
-1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. [PDF](benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf).
+1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. [PDF](/a).
 1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. [PDF](benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__I__Interpolation_and_Calderon_Zygmund_theory.pdf).
 1. Exposé: An introduction to the dynamics on the circle. December 2021. [PDF](benahou.github.io/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf).
 1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. [PDF](benahou.github.io/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf).
