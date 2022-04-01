@@ -1,5 +1,3 @@
-<a href="benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-
 # Hedong HOU
 
 I am a Master 2 student of the joint program "[M2 de Mathématiques fondamentales](https://master-math-fonda.imj-prg.fr/index.php)" by École Normale Superieure, Sorbonne Université, Université de Paris, and Université Sorbonne Paris Nord. I am registered in Université de Paris, widely-known as "Université de Paris VII-Diderot". Since March 2022, the name has been changed to "[Université Paris Cité](https://u-paris.fr)". 
@@ -23,9 +21,9 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
  
 ## Thesis
 
-<bachelorthesis href="benahou.github.io/bachelor_thesis.pdf" target="_blank">PDF.</bachelorthesis>
+<bachelorthesis href="benahou.github.io/pdfs/bachelor_thesis.pdf" target="_blank"></bachelorthesis>
 
-1. Applications of elliptic curves over finite fields in coding. Bachelor Thesis with mention "Outstanding". June 2021. [PDF](benahou.github.io/bachelor_thesis.pdf). In Chinese.
+1. Applications of elliptic curves over finite fields in coding. Bachelor Thesis with mention "Outstanding". June 2021. [PDF](<bachelorthesis>). In Chinese.
 
 ## Membership
 
