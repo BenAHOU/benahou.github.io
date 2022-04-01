@@ -50,10 +50,6 @@ Here are some homepages of my dearest friends.
 
 Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [**LINK**](https://liu-jinyuan.github.io/) to push him.
 
-## Acknowledgement
-
-Many thanks for my dear friend Jinyuan LIU for his kindest help to make me create such a satisfactory website.
-
 ##
 
 Last updated: 2 April, 2022
