@@ -21,7 +21,9 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
  
 ## Thesis
 
-1. Applications of elliptic curves over finite fields in coding. Bachelor Thesis with mention "Outstanding". June 2021. [PDF](https://drive.google.com/file/d/18fA8IqWLlsc3ZxTYy2egCx-tX9NtvMoF/view?usp=sharing). In Chinese.
+<bachelorthesis href="benahou.github.io/bachelor_thesis.pdf" target="_blank">PDF.</bachelorthesis>
+
+1. Applications of elliptic curves over finite fields in coding. Bachelor Thesis with mention "Outstanding". June 2021. [PDF](benahou.github.io/bachelor_thesis.pdf). In Chinese.
 
 ## Membership
 
@@ -29,10 +31,15 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
 
 ## Miscellaneous
 
-1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. [PDF](https://drive.google.com/file/d/1GowL-q7jIHSAWx3JvyDgjBLJ4zAon-_e/view?usp=sharing).
-1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. [PDF](https://drive.google.com/file/d/1AF4WKI0buUcYibZei-GmRsvqx27FM0on/view?usp=sharing).
-1. Exposé: An introduction to the dynamics on the circle. December 2021. [PDF](https://drive.google.com/file/d/1w5E2aTiyj5pu9gp7qIxlSQFjh6xJ7gVF/view?usp=sharing).
-1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. [PDF](https://drive.google.com/file/d/14KbYTKb23oS6gxLvie7AEhSt9UUQLm8N/view?usp=sharing).
+<misintrohaII href="benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF.</misintrohaII>
+<misintrohaI href="benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__I__Interpolation_and_Calderon_Zygmund_theory.pdf" target="_blank">PDF.</misintrohaI>
+<misNS href="benahou.github.io/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF.</misNS>
+<misPoincarerot href="benahou.github.io/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF.</misPoincarerot>
+
+1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. [PDF](benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf).
+1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. [PDF](benahou.github.io/Ben_Introduction_to_Real_Harmonic_Analysis__I__Interpolation_and_Calderon_Zygmund_theory.pdf).
+1. Exposé: An introduction to the dynamics on the circle. December 2021. [PDF](benahou.github.io/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf).
+1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. [PDF](benahou.github.io/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf).
 
 ## Acknowledgement
 
