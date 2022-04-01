@@ -43,7 +43,7 @@ Case 7012\
 <misNS href="pdfs/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank"></misNS>
 <misPoincarerot href="pdfs/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank"></misPoincarerot>
 
-1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. <misHAII href="https://benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF.</misHAII><embed src="https://benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" width="1000px" height="800px" />
+1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. <a href="https://benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF.</a><embed src="https://benahou.github.io/pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" width="1000px" height="800px" />
 1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. [PDF](/misintrohaI).
 1. Exposé: An introduction to the dynamics on the circle. December 2021. [PDF](/misNS).
 1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. [PDF](/misPoincarerot).
