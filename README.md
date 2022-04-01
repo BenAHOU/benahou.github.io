@@ -1,4 +1,4 @@
-<bachelorthesis href="benahou.github.io/pdfs/bachelor_thesis.pdf" target="_blank">
+<bachelorthesis href="benahou.github.io/pdfs/bachelor_thesis.pdf" target="_blank"></bachlorthesis>
 
 # Hedong HOU
 
