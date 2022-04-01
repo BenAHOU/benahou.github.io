@@ -14,7 +14,7 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
 
 Professional email address: hedong (dot) hou (at) etu (dot) u-paris (dot) fr.
 
-Professional address: 
+Professional address:\
 UFR de Mathématiques - Bâtiment Sophie Germain\
 Scolarité Master\
 Case 7012\
