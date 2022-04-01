@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Hedong's homepage
 description: This is Hedong HOU's academic homepage!
 logo: logo.png
+show_downloads: true
