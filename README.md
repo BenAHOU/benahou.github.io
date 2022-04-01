@@ -1,5 +1,3 @@
-<bachelorthesis href="benahou.github.io/pdfs/bachelor_thesis.pdf" target="_blank"></bachlorthesis>
-
 # Hedong HOU
 
 I am a Master 2 student of the joint program "[M2 de Mathématiques fondamentales](https://master-math-fonda.imj-prg.fr/index.php)" by École Normale Superieure, Sorbonne Université, Université de Paris, and Université Sorbonne Paris Nord. I am registered in Université de Paris, widely-known as "Université de Paris VII-Diderot". Since March 2022, the name has been changed to "[Université Paris Cité](https://u-paris.fr)". 
