@@ -48,7 +48,7 @@ Case 7012\
 
 Here are some homepages of my dearest friends.
 
-Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [**LINK**](https://liu-jinyuan.github.io/) to push him.
+Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [LINK](https://liu-jinyuan.github.io/) to push him.
 
 ##
 
