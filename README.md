@@ -41,8 +41,8 @@ Case 7012\
 
 1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. <a href="pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF</a>.
 1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. <a href="pdfs/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF</a>.
-1. Exposé: An introduction to the dynamics on the circle. December 2021. <a href="pdfs/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF</a>.
-1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. <a href="pdfs/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF</misPoincarerot>.
+1. Exposé: An introduction to the dynamics on the circle. December 2021. <a href="pdfs/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF</a>.
+1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. <a href="pdfs/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF</a>.
 
 ## Links
 
