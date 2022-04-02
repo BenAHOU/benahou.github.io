@@ -8,6 +8,8 @@ Generally speaking, my research interest is on harmonic analysis and its applica
 
 I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in the spare time of drinking coffee.
 
+My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am also happy to be called "Ben" as my English name or nickname.
+
 ## Contacts
 
 Professional email address: hedong (dot) hou (at) etu (dot) u-paris (dot) fr.
