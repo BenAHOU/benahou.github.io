@@ -25,7 +25,7 @@ Case 7012\
 ## Education
 
 * September 2021 -- current: Master 2 of "Master mathématiques et applications", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at Université Paris Cité, France
-* Feburary 2019 -- June 2021: Bachelor of Science, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
+* Feburary 2019 -- June 2021: Bachelor of Science with Second Mention, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
 * September 2018 -- December 2018: Exchange program, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
 * August 2016 -- September 2018: Undergraduate, [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/) at Tsinghua University, China.
 
