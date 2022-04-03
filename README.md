@@ -10,7 +10,7 @@ I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in
 
 My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am also happy to be called "Ben" as my English name or nickname.
 
-> ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)!
+> ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)!\
 > History: Conjectured by Yang TIAN and proved by myself.
 
 ## Contacts
