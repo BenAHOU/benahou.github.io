@@ -31,7 +31,7 @@ Case 7012\
 
 ## Publications
 
-1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). August 2020. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021).
+1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). August 2020. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang LIU and Lianrong MA)
  
 ## Thesis
 
