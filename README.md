@@ -44,7 +44,7 @@ Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong M
 
 ## Support
 
-I will update scanned copies of some important papers with only paper version before. All of the following papers are scanned by myself without special mentioned. By downloading these papers via this link, it is regarded as default that you permit that it must **be restriced to be utilised for academic research purpose**. It is merely for the convenience of the mathematical scientific research and the community.
+I will update scanned copies of some important papers with only paper version before. All of the following papers are scanned by myself without special mention. By downloading these papers, it is regarded as default that you permit that it must **be restriced to be utilised for academic research**, without any commerical or other purpose. It is merely for the convenience of the mathematical scientific research and the community.
 
 1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by the [bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
 
