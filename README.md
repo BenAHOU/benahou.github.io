@@ -42,6 +42,12 @@ Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong M
 
 * Fellowship of [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1) at Tsinghua University.
 
+## Support
+
+This part is for update of some important papers with only paper version. All of the following papers are scanned by myself without special mentioned. By downloading these papers via this link, it is regarded as default that you permit that it must **be restriced to be utilised for academic research purpose**. The claim of my own is that, it is merely for the convenience of the mathematical scientific research and the community, without any other purpose. Any further commercial behaviour by the vistor has no connection with myself.
+
+1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>.
+
 ## Miscellaneous
 
 1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. <a href="pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF</a>.
@@ -57,4 +63,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 4 April, 2022
+Last updated: 15 April, 2022
