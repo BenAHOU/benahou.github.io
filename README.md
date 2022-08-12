@@ -17,6 +17,7 @@ My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am al
 Professional email address: hedong (dot) hou (at) etu (dot) u-paris (dot) fr.
 
 Professional address:\
+**(due 31st August 2022)**
 UFR de Mathématiques - Bâtiment Sophie Germain\
 Scolarité Master\
 Case 7012\
@@ -24,7 +25,7 @@ Case 7012\
 
 ## Education
 
-* September 2021 -- current: Master 2 of "Master mathématiques et applications", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at Université Paris Cité, France
+* September 2021 -- current: Master 2 of "Master mathématiques et applications", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at Université Paris Cité, France.
 * Feburary 2019 -- June 2021: Bachelor of Science with Second-Class Mention, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
 * September 2018 -- December 2018: Exchange program, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
 * August 2016 -- September 2018: Undergraduate, [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/) at Tsinghua University, China.
@@ -34,6 +35,9 @@ Case 7012\
 1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang LIU and Lianrong MA)
  
 ## Thesis
+
+1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022. Master M\'emoire with mention ``Tr\`es Bien". Supervised by Prof. Pascal AUSCHER. <a href="pdfs/12aout_Master_M_moire.pdf" target="_blank">PDF</a>.\
+Defense jury: Prof. Pascal AUSCHER (supervisor), Prof. Isabelle GALLAGHER.
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
 Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong MA (supervisor).
@@ -47,6 +51,8 @@ Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong M
 I will update scanned copies of some important papers with only paper version before. All of the following papers are scanned by myself without special mention. By downloading these papers, it is regarded as default that you permit that it must **be restriced to be utilised for academic research**, without any commerical or other purpose. It is merely for the convenience of the mathematical scientific research and the community.
 
 1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by the [bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
+
+1. 
 
 ## Miscellaneous
 
