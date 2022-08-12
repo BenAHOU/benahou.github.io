@@ -17,7 +17,7 @@ My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am al
 Professional email address: hedong (dot) hou (at) etu (dot) u-paris (dot) fr.
 
 Professional address:\
-**(due 31st August 2022)**
+**(due 31st August 2022)**\
 UFR de Mathématiques - Bâtiment Sophie Germain\
 Scolarité Master\
 Case 7012\
@@ -36,7 +36,7 @@ Case 7012\
  
 ## Thesis
 
-1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022. Master M\'emoire with mention ``Tr\`es Bien". Supervised by Prof. Pascal AUSCHER. <a href="pdfs/12aout_Master_M_moire.pdf" target="_blank">PDF</a>.\
+1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022. Master Mémoire with mention ``Très Bien". Supervised by Prof. Pascal AUSCHER. <a href="pdfs/12aout_Master_M_moire.pdf" target="_blank">PDF</a>.\
 Defense jury: Prof. Pascal AUSCHER (supervisor), Prof. Isabelle GALLAGHER.
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
@@ -52,7 +52,7 @@ I will update scanned copies of some important papers with only paper version be
 
 1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by the [bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
 
-1. 
+1. Some results on complex interpolation of $T^p_q$ spaces. A. Bernal. _Isarel Mathematical Conference Proceedings_. _Interpolation spaces and Related Topics_. Vol.5. Bar-Ilan University, Ramat-Gan, Israel: IMCP, 1992, pp. 1-10. <a href="pdfs/Bernal1992_Complex interpolation.pdf" target="_blank">PDF</a>. Supported by the bibliothèque d'Institut Henri Poincaré.
 
 ## Miscellaneous
 
