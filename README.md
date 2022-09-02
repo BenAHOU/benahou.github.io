@@ -36,8 +36,7 @@ Case 7012\
  
 ## Thesis
 
-1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022. Master Mémoire with mention "Très Bien". Supervised by Prof. Pascal AUSCHER. <a href="pdfs/26aout_Master_M_moire.pdf" target="_blank">PDF</a>.\
-Defense jury: Prof. Pascal AUSCHER (supervisor), Prof. [Isabelle GALLAGHER](https://www.math.ens.psl.eu/~gallagher/index.php).
+
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
 Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong MA (supervisor).
