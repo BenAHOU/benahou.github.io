@@ -1,8 +1,6 @@
 # Hedong HOU
 
-I am a Master 2 student of the joint program "[M2 de Mathématiques Fondamentales](https://master-math-fonda.imj-prg.fr/index.php)" by École Normale Superieure, Sorbonne Université, Université de Paris, and Université Sorbonne Paris Nord. I am registered in Université de Paris, widely-known as "Université de Paris VII-Diderot". Since March 2022, the name has been changed to "[Université Paris Cité](https://u-paris.fr)". 
-
-I currently work with Prof. Pascal Auscher at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). 
+I am a doctoral student at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). I am in the group of "Analyse harmonique" and my advisor is Prof. Pascal AUSCHER. 
 
 Generally speaking, my research interest is on harmonic analysis and its applications in PDE, dynamical systems, and microlocal analysis.
 
@@ -14,18 +12,18 @@ My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am al
 
 ## Contacts
 
-Professional email address: hedong (dot) hou (at) etu (dot) u-paris (dot) fr.
+Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
 
 Professional address:\
-**(due 31st August 2022)**\
-UFR de Mathématiques - Bâtiment Sophie Germain\
-Scolarité Master\
-Case 7012\
-75205 Paris CEDEX 13.
+Bureau 2A19, Bâtiment 307, Rue Michel Magat
+Faculté des Sciences d’Orsay, Université Paris-Saclay 
+F-91405 Orsay Cedex
+France
 
 ## Education
 
-* September 2021 -- current: Master 2 of "Master mathématiques et applications", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at Université Paris Cité, France.
+* October 2022 -- current: Doctorant of "Mathématiques fondamentales" at LMO, Université Paris-Saclay, France.
+* September 2021 -- September 2022: Master 2 of "Master mathématiques et applications" with Mention "Très Bien", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at [Université Paris Cité](https://u-paris.fr), France.
 * Feburary 2019 -- June 2021: Bachelor of Science with Second-Class Mention, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
 * September 2018 -- December 2018: Exchange program, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
 * August 2016 -- September 2018: Undergraduate, [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/) at Tsinghua University, China.
@@ -35,7 +33,6 @@ Case 7012\
 1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang LIU and Lianrong MA)
  
 ## Thesis
-
 
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
@@ -68,4 +65,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 12 August, 2022
+Last updated: 06 October, 2022
