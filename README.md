@@ -15,9 +15,9 @@ My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am al
 Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
 
 Professional address:\
-Bureau 2A19, Bâtiment 307, Rue Michel Magat
-Faculté des Sciences d’Orsay, Université Paris-Saclay 
-F-91405 Orsay Cedex
+Bureau 2A19, Bâtiment 307, Rue Michel Magat\
+Faculté des Sciences d’Orsay, Université Paris-Saclay\
+F-91405 Orsay Cedex\
 France
 
 ## Education
