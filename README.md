@@ -31,9 +31,17 @@ France
 ## Publications
 
 1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang LIU and Lianrong MA)
+
+## Preprints
+
+1. On representation of solutions to the heat equation. Joint with Pascal Auscher. [arXiv:2310.19330](https://arxiv.org/abs/2310.19330).
+
+## Talks
+
+1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023. Invited by organizers.
+1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023. Invited by Zhe Chen.
  
 ## Thesis
-
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
 Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong MA (supervisor).
@@ -46,16 +54,16 @@ Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong M
 
 I will update scanned copies of some important papers with only paper version before. All of the following papers are scanned by myself without special mention. By downloading these papers, it is regarded as default that you permit that it must **be restriced to be utilised for academic research**, without any commerical or other purpose. It is merely for the convenience of the mathematical scientific research and the community.
 
-1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by the [bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
+1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by [Bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
 
-1. Some results on complex interpolation of $T^p_q$ spaces. A. Bernal. _Isarel Mathematical Conference Proceedings_. _Interpolation spaces and Related Topics_. Vol.5. Bar-Ilan University, Ramat-Gan, Israel: IMCP, 1992, pp. 1-10. <a href="pdfs/Bernal1992_Complex interpolation.pdf" target="_blank">PDF</a>. Supported by the bibliothèque d'Institut Henri Poincaré.
+1. Some results on complex interpolation of $T^p_q$ spaces. A. Bernal. _Isarel Mathematical Conference Proceedings_. _Interpolation spaces and Related Topics_. Vol.5. Bar-Ilan University, Ramat-Gan, Israel: IMCP, 1992, pp. 1-10. <a href="pdfs/Bernal1992_Complex interpolation.pdf" target="_blank">PDF</a>. Supported by Bibliothèque d'Institut Henri Poincaré.
 
-## Miscellaneous
+<!-- ## Miscellaneous
 
 1. Exposé: Introduction to real harmonic analysis, II: BMO and Hardy spaces. March 2022. <a href="pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__II.pdf" target="_blank">PDF</a>.
 1. Exposé: Introduction to real harmonic analysis, I: interpolation and Calderón-Zygmund theory. January 2022. <a href="pdfs/Ben_Introduction_to_Real_Harmonic_Analysis__I__Interpolation_and_Calderon_Zygmund_theory.pdf" target="_blank">PDF</a>.
 1. Exposé: An introduction to the dynamics on the circle. December 2021. <a href="pdfs/Ben_An_Introduction_to_the_Dynamics_on_the_Circle.pdf" target="_blank">PDF</a>.
-1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. <a href="pdfs/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF</a>.
+1. Exposé: Historical notes on Navier-Stokes equations, I: basic settings and local well-posedness theory. November 2021. <a href="pdfs/Ben_Historical_Notes_on_Navier_Stokes_Equations.pdf" target="_blank">PDF</a>. -->
 
 ## Links
 
@@ -65,4 +73,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 06 October, 2022
+Last updated: 05 November, 2023
