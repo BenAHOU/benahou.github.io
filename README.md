@@ -34,12 +34,13 @@ France
 
 ## Preprints
 
-1. On representation of solutions to the heat equation. Joint with Pascal Auscher. [arXiv:2310.19330](https://arxiv.org/abs/2310.19330).
+1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. [arXiv:2311.04844](https://doi.org/10.48550/arXiv.2311.04844).
+1. On representation of solutions to the heat equation. Joint with Pascal Auscher. [arXiv:2310.19330](https://doi.org/10.48550/arXiv.2310.19330).
 
 ## Talks
 
-1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023. Invited by organizers.
-1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023. Invited by Zhe Chen.
+1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023.
+1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023.
  
 ## Thesis
 
@@ -73,4 +74,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 05 November, 2023
+Last updated: 15 November, 2023
