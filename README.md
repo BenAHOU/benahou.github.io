@@ -39,6 +39,7 @@ France
 
 ## Talks
 
+1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb. 2024.
 1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023.
 1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023.
  
@@ -74,4 +75,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 15 November, 2023
+Last updated: 21 February 2024.
