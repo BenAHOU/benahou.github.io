@@ -30,7 +30,7 @@ France
 
 ## Publications
 
-1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang LIU and Lianrong MA)
+1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang Liu and Lianrong Ma)
 
 ## Preprints
 
@@ -39,6 +39,7 @@ France
 
 ## Talks
 
+1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
 1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
 1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb. 2024.
 1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023.
@@ -47,7 +48,7 @@ France
 ## Teaching experience
 
 1. Teaching assistant for MAA105 "Integral and Differential Calculus", École polytechnique. Feb. -- June 2024. 56h.
-1. Teaching assistant for Calculus(A)-2, Tsinghua University. Feb. -- June 2021. 
+1. Teaching assistant for Calculus(A)-2, Tsinghua University. Feb. -- June 2021. 60h.
  
 ## Thesis
 
@@ -56,7 +57,7 @@ Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong M
 
 ## Membership
 
-* Fellowship of [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1) at Tsinghua University.
+* Fellowship of Spark Innovative Talent Cultivation Program at Tsinghua University.
 
 ## Support
 
@@ -81,4 +82,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 09 May 2024.
+Last updated: 29 May 2024.
