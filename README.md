@@ -4,7 +4,7 @@ I am a doctoral student at [Laboratoire de Mathématiques d'Orsay](https://www.i
 
 Generally speaking, my research interest is on harmonic analysis and its applications in PDE, dynamical systems, and microlocal analysis.
 
-I have so-called "obsessive coffee disorder" (OCD), and I work on mathematics in the spare time of drinking coffee.
+I have "obsessive coffee disorder" (OCD), and I work on mathematics in the spare time of drinking coffee.
 
 My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am also happy to be called "Ben" as my English name or nickname.
 
