@@ -39,6 +39,7 @@ France
 
 ## Talks
 
+1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
 1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
 1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
 1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb. 2024.
@@ -82,4 +83,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 29 May 2024.
+Last updated: 21 June 2024.
