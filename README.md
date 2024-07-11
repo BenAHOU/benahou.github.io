@@ -2,11 +2,11 @@
 
 I am a doctoral student at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). I am in the group of "Analyse harmonique" and my advisor is Prof. Pascal AUSCHER. 
 
-Generally speaking, my research interest is on harmonic analysis and its applications in PDE, dynamical systems, and microlocal analysis.
+My research interest is on harmonic analysis and its interactions with PDEs, microlocal analysis and its applications in dynamical systems.
 
-I have "obsessive coffee disorder" (OCD), and I work on mathematics in the spare time of drinking coffee.
+I have "OCD" (obsessive coffee disorder), and I work on mathematics in the spare time of drinking coffee.
 
-My Chinese name is 侯贺冬 (with prename "Hedong", surname "HOU"), and I am also happy to be called "Ben" as my English name or nickname.
+My Chinese name is 侯贺冬(HOU Hedong), and I am also happy to be called "Ben" as my nickname.
 
 > ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)! (conjectured by Yang TIAN and proved by myself)
 
@@ -40,6 +40,8 @@ France
 
 ## Talks
 
+1. Recent advances in Harmonic Analysis. Satellite conference of 9th ECM. 11 July 2024.
+1. Summer School on Harmonic Analysis in Harbin. 04 July 2024.
 1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
 1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
 1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
@@ -84,4 +86,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 27 June 2024.
+Last updated: 11 July 2024.
