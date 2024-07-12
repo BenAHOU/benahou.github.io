@@ -40,8 +40,8 @@ France
 
 ## Talks
 
-1. Recent advances in Harmonic Analysis. Satellite conference of 9th ECM. 11 July 2024.
-1. Summer School on Harmonic Analysis in Harbin. 04 July 2024.
+1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
+1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
 1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
 1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
 1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
