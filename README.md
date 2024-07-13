@@ -22,11 +22,27 @@ France
 
 ## Education
 
-* October 2022 -- current: Doctorant of "Mathématiques fondamentales" at LMO, Université Paris-Saclay, France.
-* September 2021 -- September 2022: Master 2 of "Master mathématiques et applications" with Mention "Très Bien", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at [Université Paris Cité](https://u-paris.fr), France.
+* October 2022 -- current: Ph.D. student, Institut de Mathématique d'Orsay at Université Paris-Saclay, France.
+* September 2021 -- September 2022: Master mathématiques et applications with highest Mention "Très Bien", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at [Université Paris Cité](https://u-paris.fr), France.
 * Feburary 2019 -- June 2021: Bachelor of Science with Second-Class Mention, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
-* September 2018 -- December 2018: Exchange program, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
+* September 2018 -- December 2018: Exchange undergraduate, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
 * August 2016 -- September 2018: Undergraduate, [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/) at Tsinghua University, China.
+
+## Employment
+
+1. February -- June 2024: École polytechnique. Teaching assistant for MAA105 "Integral and Differential Calculus". 56h.
+1. February -- June 2021: Tsinghua University. Teaching assistant for Calculus(A)-2. 60h.
+1. September 2017 -- June 2021: Tsinghua University. Volunteer in Q&A Room and Teaching-Assistant Program. 815.25h.
+
+## Awards and honours
+
+1. Outstanding Bachelor Thesis. Tsinghua Unviersity. 2021.
+1. National Scholarship. Ministry of Education of the P.R.C.. 2017.
+
+## Membership
+
+* Fellowship of Tsinghua Xuetang Program at Tsinghua Unviersity.
+* Fellowship of Spark Innovative Talent Cultivation Program at Tsinghua Unviersity.
 
 ## Publications
 
@@ -48,24 +64,15 @@ France
 1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb. 2024.
 1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023.
 1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023.
-
-## Teaching experience
-
-1. Teaching assistant for MAA105 "Integral and Differential Calculus", École polytechnique. Feb. -- June 2024. 56h.
-1. Teaching assistant for Calculus(A)-2, Tsinghua University. Feb. -- June 2021. 60h.
  
 ## Thesis
 
 1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
 Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong MA (supervisor).
 
-## Membership
-
-* Fellowship of Spark Innovative Talent Cultivation Program at Tsinghua University.
-
 ## Support
 
-I will update scanned copies of some important papers with only paper version before. All of the following papers are scanned by myself without special mention. By downloading these papers, it is regarded as default that you permit that it must **be restriced to be utilised for academic research**, without any commerical or other purpose. It is merely for the convenience of the mathematical scientific research and the community.
+I will update scanned copies of some important papers with only paper version available before. All of the following papers are scanned by myself without special mention. By downloading these papers, it is regarded as default that you permit that it must **be restriced to be utilised for academic research**, without any commerical or other purpose. <!-- It is merely for the convenience of the mathematical scientific research and the community. -->
 
 1. Compensated compactness and Hardy spaces. R. Coifman, P.-L. Lions, Y. Meyer, and S. Semmes. _Journal de Mathématiques pures et appliquées_, **72** (1993). p. 247 à 286. <a href="pdfs/CLMS_Compensated compactness and Hardy spaces.pdf" target="_blank">PDF</a>. Supported by [Bibliothèque d'Institut Henri Poincaré](http://www.ihp.fr/fr/bibliotheque).
 
