@@ -56,6 +56,7 @@ France
 
 ## Talks
 
+1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
 1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
 1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
 1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
@@ -93,4 +94,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 11 July 2024.
+Last updated: 05 Sep 2024.
