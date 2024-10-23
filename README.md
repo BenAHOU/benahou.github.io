@@ -30,11 +30,12 @@ France
 
 ## Employment
 
+1. September 2024 -- January 2025: École polytechnique. Teaching Assistant for FMA_2F002_EP "Topology and Multivariable Calculus". 56h.
 1. February -- June 2024: École polytechnique. Teaching assistant for MAA105 "Integral and Differential Calculus". 56h.
 1. February -- June 2021: Tsinghua University. Teaching assistant for Calculus(A)-2. 60h.
 1. September 2017 -- June 2021: Tsinghua University. Volunteer in Q&A Room and Teaching-Assistant Program. 815.25h.
 
-## Awards and honours
+## Selected awards and honours
 
 1. Outstanding Bachelor Thesis. Tsinghua Unviersity. 2021.
 1. National Scholarship. Ministry of Education of the P.R.C.. 2017.
@@ -46,13 +47,14 @@ France
 
 ## Publications
 
-1. Some results on incorrigible sets of binary linear codes. _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). (Supervised by & Joint with Haiyang Liu and Lianrong Ma)
+1. On representation of solutions to the heat equation. (Joint with Pascal Auscher) _Comptes Rendus Mathématiques_ Vol.362(2024), pp.761-768. DOI: [10.5802/crmath.593](https://doi.org/10.5802/crmath.593). arXiv: [2310.19330](https://doi.org/10.48550/arXiv.2310.19330).
+1. Some results on incorrigible sets of binary linear codes. (Joint with Haiyang Liu and Lianrong Ma) _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). 
 
 ## Preprints
 
-1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. [arXiv:2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
-1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. [arXiv:2311.04844](https://doi.org/10.48550/arXiv.2311.04844).
-1. On representation of solutions to the heat equation. Joint with Pascal Auscher. [arXiv:2310.19330](https://doi.org/10.48550/arXiv.2310.19330).
+1. On regularity of solutions to the Navier--Stokes equation with initial data in $\mathrm{BMO}^{-1}$. arXiv: [2410.16468](https://doi.org/10.48550/arXiv.2410.16468).
+1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. arXiv: [2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
+1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. arXiv: [2311.04844](https://doi.org/10.48550/arXiv.2311.04844).
 
 ## Talks
 
@@ -94,4 +96,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 05 Sep 2024.
+Last updated: 24 October 2024.
