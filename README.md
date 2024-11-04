@@ -58,6 +58,7 @@ France
 
 ## Talks
 
+1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 November 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
 1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
 1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
