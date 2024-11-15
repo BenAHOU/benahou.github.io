@@ -58,6 +58,7 @@ France
 
 ## Talks
 
+1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 November, 2024.
 1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 November 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
 1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
@@ -97,4 +98,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 05 November 2024.
+Last updated: 15 November 2024.
