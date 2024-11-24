@@ -54,7 +54,7 @@ France
 
 1. On regularity of solutions to the Navier--Stokes equation with initial data in $\mathrm{BMO}^{-1}$. arXiv: [2410.16468](https://doi.org/10.48550/arXiv.2410.16468).
 1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. arXiv: [2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
-1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. arXiv: [2311.04844](https://doi.org/10.48550/arXiv.2311.04844).
+1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. arXiv: [2311.04844](https://doi.org/10.48550/arXiv.2311.04844). Accepted by _Journal of Evolution Equations_.
 
 ## Talks
 
@@ -98,4 +98,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 15 November 2024.
+Last updated: 24 November 2024.
