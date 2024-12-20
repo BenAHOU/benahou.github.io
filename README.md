@@ -58,6 +58,7 @@ France
 
 ## Talks
 
+1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 December, 2024.
 1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 November, 2024.
 1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 November 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
@@ -98,4 +99,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 24 November 2024.
+Last updated: 20 December 2024.
