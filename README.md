@@ -60,6 +60,7 @@ France
 
 1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 December, 2024.
 1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 November, 2024.
+1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 November, 2024.
 1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 November 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
 1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
