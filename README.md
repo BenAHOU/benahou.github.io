@@ -6,7 +6,7 @@ My research interest is on harmonic analysis and its interactions with PDEs, mic
 
 I have "OCD" (obsessive coffee disorder), and I work on mathematics in the spare time of drinking coffee.
 
-My Chinese name is 侯贺冬(HOU Hedong), and I am also happy to be called "Ben" as my nickname.
+My Chinese name is 侯贺冬(HOU He Dong), and I am also happy to be called "Ben" as my nickname.
 
 > ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)! (conjectured by Yang TIAN and proved by myself)
 
@@ -47,14 +47,14 @@ France
 
 ## Publications
 
-1. On representation of solutions to the heat equation. (Joint with Pascal Auscher) _Comptes Rendus Mathématiques_ Vol.362(2024), pp.761-768. DOI: [10.5802/crmath.593](https://doi.org/10.5802/crmath.593). arXiv: [2310.19330](https://doi.org/10.48550/arXiv.2310.19330).
+1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. (Joint with Pascal Auscher) _Journal of Evolution Equations_ **25**, 16(2025). DOI: [10.1007/s00028-024-01041-x](https://doi.org/10.1007/s00028-024-01041-x). arXiv: [2311.04844](https://doi.org/10.48550/arXiv.2311.04844).
+1. On representation of solutions to the heat equation. (Joint with Pascal Auscher) _Comptes Rendus Mathématiques_ **Vol.362** (2024), pp.761-768. DOI: [10.5802/crmath.593](https://doi.org/10.5802/crmath.593). arXiv: [2310.19330](https://doi.org/10.48550/arXiv.2310.19330).
 1. Some results on incorrigible sets of binary linear codes. (Joint with Haiyang Liu and Lianrong Ma) _IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences_ **E104.A** (2). Feburary 2021. DOI: [10.1587/transfun.2020EAL2021](http://dx.doi.org/10.1587/transfun.2020EAL2021). 
 
 ## Preprints
 
 1. On regularity of solutions to the Navier--Stokes equation with initial data in $\mathrm{BMO}^{-1}$. arXiv: [2410.16468](https://doi.org/10.48550/arXiv.2410.16468).
 1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. arXiv: [2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
-1. On well-posedness and maximal regularity for parabolic Cauchy problems on weighted tent spaces. Joint with Pascal Auscher. arXiv: [2311.04844](https://doi.org/10.48550/arXiv.2311.04844). Accepted by _Journal of Evolution Equations_.
 
 ## Talks
 
@@ -100,4 +100,4 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 ##
 
-Last updated: 20 December 2024.
+Last updated: 24 December 2024.
