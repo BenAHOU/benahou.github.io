@@ -98,9 +98,7 @@ Here are some homepages of my dearest friends.
 
 Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [LINK](https://liu-jinyuan.github.io/) to push him.
 
-Saturday Mafia: Zhe CHEN, Zuodong WANG, [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html).
-
-Sunday dinch: [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
+Mafia: Zhe CHEN, Zuodong WANG, [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
 
 ##
 
