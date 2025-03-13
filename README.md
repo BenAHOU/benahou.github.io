@@ -54,23 +54,28 @@ France
 ## Preprints
 
 1. On regularity of solutions to the Navier--Stokes equation with initial data in $\mathrm{BMO}^{-1}$. arXiv: [2410.16468](https://doi.org/10.48550/arXiv.2410.16468).
-1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. arXiv: [2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
+1. On well-posedness for parabolic Cauchy problems of Lions type with rough initial data. Joint with Pascal Auscher. To appear in _Mathematische Annalen_. arXiv: [2406.15775](https://doi.org/10.48550/arXiv.2406.15775).
 
-## Talks
+## Conference Talks
 
-1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 December, 2024.
-1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 November, 2024.
-1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 November, 2024.
-1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 November 2024.
+1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 Nov 2024.
+1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 Nov 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
 1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
 1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
+1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct 2023.
+
+
+## Seminar Talks
+
+1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
+1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 Nov 2024.
 1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
 1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
 1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
-1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb. 2024.
-1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct. 2023.
-1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct. 2023.
+1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb 2024.
+1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct 2023.
+
  
 ## Thesis
 
@@ -102,4 +107,4 @@ Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng L
 
 ##
 
-Last updated: 05 March 2025.
+Last updated: 13 March 2025.
