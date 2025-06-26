@@ -59,6 +59,8 @@ France
 
 ## Conference Talks
 
+1. Harmonic Analysis and Fluid Flow. Karlsruhe. 19 June 2025.
+1. 12th International Conference on Harmonic Analysis and Partial Differential Equations. El Escorial. 10 June 2025.
 1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 Nov 2024.
 1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 Nov 2024.
 1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
@@ -69,6 +71,7 @@ France
 
 ## Seminar Talks
 
+1. Junior Analysis Seminar. Imperial College London. 25 June 2025.
 1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
 1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 Nov 2024.
 1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
@@ -108,4 +111,4 @@ Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng L
 
 ##
 
-Last updated: 28 May 2025.
+Last updated: 26 June 2025.
