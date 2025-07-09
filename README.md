@@ -59,6 +59,7 @@ France
 
 ## Conference Talks
 
+1. Tsinghua Reunion Workshop II. Tsinghua University. 29 June 2025.
 1. Harmonic Analysis and Fluid Flow. Karlsruhe. 19 June 2025.
 1. 12th International Conference on Harmonic Analysis and Partial Differential Equations. El Escorial. 10 June 2025.
 1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 Nov 2024.
@@ -111,4 +112,4 @@ Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng L
 
 ##
 
-Last updated: 26 June 2025.
+Last updated: 30 June 2025.
