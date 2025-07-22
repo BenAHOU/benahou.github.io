@@ -1,8 +1,8 @@
 # Hedong HOU
 
-I am a doctoral student at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). I am in the group of "Analyse harmonique" and my advisor is Prof. Pascal AUSCHER. 
+I got my Ph.D. at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). I am in the group of "Analyse harmonique" and my advisor is Prof. Pascal AUSCHER. 
 
-My research interest is on harmonic analysis and its interactions with PDEs, microlocal analysis and its applications in dynamical systems.
+My research interest is on harmonic analysis and Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
 
 I have "OCD" (obsessive coffee disorder), and I work on mathematics in the spare time of drinking coffee.
 
@@ -10,7 +10,7 @@ My Chinese name is 侯贺冬(HOU He Dong), and I am also happy to be called "Ben
 
 > ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)! (conjectured by Yang TIAN and proved by myself)
 
-## Contacts
+## Contacts (valid before 31 Aug 2025)
 
 Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
 
@@ -22,7 +22,7 @@ France
 
 ## Education
 
-* October 2022 -- current: Ph.D. student, Institut de Mathématique d'Orsay at Université Paris-Saclay, France.
+* October 2022 -- July 2025: Ph.D. student, Institut de Mathématique d'Orsay at Université Paris-Saclay, France.
 * September 2021 -- September 2022: Master mathématiques et applications with highest Mention "Très Bien", [UFR de Mathématiques](https://www.math.univ-paris-diderot.fr/) at [Université Paris Cité](https://u-paris.fr), France.
 * Feburary 2019 -- June 2021: Bachelor of Science with Second-Class Mention, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), China.
 * September 2018 -- December 2018: Exchange undergraduate, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
@@ -84,8 +84,16 @@ France
  
 ## Thesis
 
-1. Applications of elliptic curves over finite fields in coding. June 2021. Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA. <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
-Defense jury: Prof. Hongyan TANG (chair), Prof. Yuxiang LI, and Prof. Lianrong MA (supervisor).
+1. Boundedness of operators on tent spaces and applications to PDE's. July 2025.\
+Doctoral Thesis. Supervised by Pascal AUSCHER.\
+Defense jury: Patrick GÉRARD (chair), Pascal AUSCHER (supervisor), Raphaël DANCHIN, Dorothee FREY, Isabelle GALLAGHER, Sylvie MONNIAUX.
+1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022.\
+Master Thesis. Supervised by Pascal AUSCHER.\
+Defense jury: Pascal AUSCHER (chair, supervisor), Isabelle GALLAGHER.
+1. Applications of elliptic curves over finite fields in coding. June 2021.\
+Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA.\
+<a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
+Defense jury: Hongyan TANG (chair), Yuxiang LI, and Lianrong MA (supervisor).
 
 ## Support
 
@@ -112,4 +120,4 @@ Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng L
 
 ##
 
-Last updated: 30 June 2025.
+Last updated: 22 July 2025.
