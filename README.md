@@ -85,13 +85,14 @@ France
 ## Thesis
 
 1. Boundedness of operators on tent spaces and applications to PDE's. July 2025.\
-Doctoral Thesis. Supervised by Pascal AUSCHER.\
+**Doctoral Thesis**. Supervised by Pascal AUSCHER.\
+[HAL](https://theses.hal.science/tel-05165508). <a href="pdfs/Thesis-doctoral.pdf" target="_blank">PDF</a>.\
 Defense jury: Patrick GÉRARD (chair), Pascal AUSCHER (supervisor), Raphaël DANCHIN, Dorothee FREY, Isabelle GALLAGHER, Sylvie MONNIAUX.
 1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022.\
-Master Thesis. Supervised by Pascal AUSCHER.\
+**Master Thesis**. Supervised by Pascal AUSCHER.\
 Defense jury: Pascal AUSCHER (chair, supervisor), Isabelle GALLAGHER.
 1. Applications of elliptic curves over finite fields in coding. June 2021.\
-Bachelor Thesis with mention "Outstanding". Supervised by Prof. Lianrong MA.\
+**Bachelor Thesis** with mention "Outstanding". Supervised by Prof. Lianrong MA.\
 <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
 Defense jury: Hongyan TANG (chair), Yuxiang LI, and Lianrong MA (supervisor).
 
