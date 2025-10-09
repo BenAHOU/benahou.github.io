@@ -1,6 +1,8 @@
 # Hedong HOU
 
-I got my Ph.D. at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). I am in the group of "Analyse harmonique" and my advisor is Prof. Pascal AUSCHER. 
+I am currently a Postdocral Researcher in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), leading by [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
+
+Before, I got my Ph.D. at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor is Prof. Pascal AUSCHER. 
 
 My research interest is on harmonic analysis and Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
 
@@ -10,15 +12,27 @@ My Chinese name is 侯贺冬(HOU He Dong), and I am also happy to be called "Ben
 
 > ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)! (conjectured by Yang TIAN and proved by myself)
 
-## Contacts (valid before 31 Aug 2025)
+## Contacts 
 
-Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
+Professional email address: houhedong (at) westlake (dot) edu (dot) cn.
+
+Professional address:\
+Westlake Institute for Advanced Study, Westlake University,\
+600 Dunyu Road, Xihu District\
+310030 Hangzhou, Zhejiang\
+China
+
+<!-- Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
 
 Professional address:\
 Bureau 2A19, Bâtiment 307, Rue Michel Magat\
 Faculté des Sciences d’Orsay, Université Paris-Saclay\
 F-91405 Orsay Cedex\
-France
+France -->
+
+## Employment
+
+* September 2025 -- present: Postdocal Researcher. Westlake University.
 
 ## Education
 
@@ -28,7 +42,7 @@ France
 * September 2018 -- December 2018: Exchange undergraduate, [Department of Mathematics](https://ww3.math.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), United States.
 * August 2016 -- September 2018: Undergraduate, [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/) at Tsinghua University, China.
 
-## Employment
+## Teaching experience
 
 1. September 2024 -- January 2025: École polytechnique. Teaching Assistant for FMA_2F002_EP "Topology and Multivariable Calculus". 56h.
 1. February -- June 2024: École polytechnique. Teaching assistant for MAA105 "Integral and Differential Calculus". 56h.
@@ -72,6 +86,7 @@ France
 
 ## Seminar Talks
 
+1. Mini-course on Analysis and Applied Math Seminar. Westlake University. 11, 15, 24 Sep 2025.
 1. Junior Analysis Seminar. Imperial College London. 25 June 2025.
 1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
 1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 Nov 2024.
@@ -87,7 +102,7 @@ France
 1. Boundedness of operators on tent spaces and applications to PDE's. July 2025.\
 **Doctoral Thesis**. Supervised by Pascal AUSCHER.\
 [HAL](https://theses.hal.science/tel-05165508). <a href="pdfs/Thesis-doctoral.pdf" target="_blank">PDF</a>.\
-Defense jury: Patrick GÉRARD (chair), Pascal AUSCHER (supervisor), Raphaël DANCHIN, Dorothee FREY, Isabelle GALLAGHER, Sylvie MONNIAUX.
+Defense jury: Patrick GÉRARD (chair), Pascal AUSCHER (supervisor), Raphaël DANCHIN (reviewer), Dorothee FREY (reviewer), Isabelle GALLAGHER, Sylvie MONNIAUX.
 1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022.\
 **Master Thesis**. Supervised by Pascal AUSCHER.\
 Defense jury: Pascal AUSCHER (chair, supervisor), Isabelle GALLAGHER.
@@ -121,4 +136,4 @@ Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng L
 
 ##
 
-Last updated: 22 July 2025.
+Last updated: 09 October 2025.
