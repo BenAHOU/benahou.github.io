@@ -102,14 +102,14 @@ France -->
 1. Boundedness of operators on tent spaces and applications to PDE's. July 2025.\
 **Doctoral Thesis**. Supervised by Pascal AUSCHER.\
 [HAL](https://theses.hal.science/tel-05165508). <a href="pdfs/Thesis-doctoral.pdf" target="_blank">PDF</a>.\
-Defense jury: Patrick GÉRARD (chair), Pascal AUSCHER (supervisor), Raphaël DANCHIN (reviewer), Dorothee FREY (reviewer), Isabelle GALLAGHER, Sylvie MONNIAUX.
+Defense jury: [Patrick GÉRARD](https://www.imo.universite-paris-saclay.fr/~patrick.gerard/) (chair), Pascal AUSCHER (supervisor), [Raphaël DANCHIN](https://perso.math.u-pem.fr/danchin.raphael/index.html) (reviewer), [Dorothee FREY](https://wwwalt.math.kit.edu/iana3/~frey/en) (reviewer), [Isabelle GALLAGHER](https://webusers.imj-prg.fr/~isabelle.gallagher/), [Sylvie MONNIAUX](https://www.i2m.univ-amu.fr/perso/sylvie.monniaux/).
 1. Fundamental properties of tent spaces on Euclidean spaces and spaces of homogeneous type. July 2022.\
 **Master Thesis**. Supervised by Pascal AUSCHER.\
 Defense jury: Pascal AUSCHER (chair, supervisor), Isabelle GALLAGHER.
 1. Applications of elliptic curves over finite fields in coding. June 2021.\
 **Bachelor Thesis** with mention "Outstanding". Supervised by Prof. Lianrong MA.\
 <a href="pdfs/bachelor_thesis.pdf" target="_blank">PDF</a>. In Chinese.\
-Defense jury: Hongyan TANG (chair), Yuxiang LI, and Lianrong MA (supervisor).
+Defense jury: [Hongyan TANG](https://www.tcm.tsinghua.edu.cn/info/1003/1153.htm) (chair), [Yuxiang LI](https://math.tsinghua.edu.cn/info/1125/1876.htm), and Lianrong MA (supervisor).
 
 ## Support
 
@@ -132,8 +132,10 @@ Here are some homepages of my dearest friends.
 
 Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [LINK](https://liu-jinyuan.github.io/) to push him.
 
-Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
+China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
+
+Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-HERMOSILLA](https://sites.google.com/view/gastonvh/home).
 
 ##
 
-Last updated: 04 November 2025.
+Last updated: 13 November 2025.
