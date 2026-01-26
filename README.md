@@ -96,6 +96,10 @@ France -->
 1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb 2024.
 1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct 2023.
 
+## Visit
+
+1. Institut de Mathématiques d'Orsay, École polytechnique, Université Paris-Cité. 16 - 25 Jan 2026.
+1. TU Delft. 13 - 16 Jan 2026.
  
 ## Thesis
 
@@ -134,8 +138,10 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
 
+Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](https://profiles.imperial.ac.uk/h.xiang23/about), Qimeng ZHU.
+
 Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-HERMOSILLA](https://sites.google.com/view/gastonvh/home).
 
 ##
 
-Last updated: 13 November 2025.
+Last updated: 26 Jan 2026.
