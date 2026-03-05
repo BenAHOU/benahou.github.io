@@ -17,8 +17,9 @@ My Chinese name is 侯贺冬(HOU He Dong), and I am also happy to be called "Ben
 Professional email address: houhedong (at) westlake (dot) edu (dot) cn.
 
 Professional address:\
-Westlake Institute for Advanced Study, Westlake University,\
-600 Dunyu Road, Xihu District\
+Bureau E10-409B, Institute for Theoretical Sciences\
+600 Dunyu Road, Westlake University\
+Xihu District\
 310030 Hangzhou, Zhejiang\
 China
 
