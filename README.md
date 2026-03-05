@@ -1,10 +1,10 @@
 # Hedong HOU
 
-I am currently a Postdocral Researcher in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), leading by [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
+I am currently a Postdocral Researcher in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), working with [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
 
 Before, I got my Ph.D. at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor is Prof. Pascal AUSCHER. 
 
-My research interest is on harmonic analysis and Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
+My research interest is on harmonic analysis and the Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
 
 I have "OCD" (obsessive coffee disorder), and I work on mathematics in the spare time of drinking coffee.
 
@@ -69,6 +69,7 @@ France -->
 
 ## Preprints
 
+1. On non-uniqueness of mild solutions and stationary singular solutions to the Navier-Stokes equations. Joint with Alexey Cheskidov. arXiv: [2603.03666](https://arxiv.org/abs/2603.03666).
 1. On well-posedness for non-autonomous parabolic Cauchy problems with rough initial data. arXiv: [2505.09387](https://arxiv.org/abs/2505.09387).
 
 ## Conference Talks
@@ -86,6 +87,8 @@ France -->
 
 ## Seminar Talks
 
+1. Harmonic Analysis Seminar, Zhejiang University of Technology. 28 Jan 2026.
+1. ITS Postdoctoral Seminar, Westlake University. 18 Nov 2025.
 1. Mini-course on Analysis and Applied Math Seminar. Westlake University. 11, 15, 24 Sep 2025.
 1. Junior Analysis Seminar. Imperial College London. 25 June 2025.
 1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
@@ -144,4 +147,4 @@ Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-H
 
 ##
 
-Last updated: 26 Jan 2026.
+Last updated: 05 Mar 2026.
