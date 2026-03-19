@@ -2,13 +2,13 @@
 
 I am currently a Postdocral Researcher in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), working with [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
 
-Before, I got my Ph.D. at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor is Prof. Pascal AUSCHER. 
+Before, I obtained my Ph.D. from [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor was Prof. Pascal AUSCHER. 
 
 My research interest is on harmonic analysis and the Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
 
-I have "OCD" (obsessive coffee disorder), and I work on mathematics in the spare time of drinking coffee.
+I have "OCD" (obsessive coffee disorder). I work on mathematics in the spare time of drinking coffee.
 
-My Chinese name is 侯贺冬(HOU He Dong), and I am also happy to be called "Ben" as my nickname.
+My Chinese name is 侯贺冬(HOU He Dong). I am also happy to be called "Ben" as my nickname.
 
 > ‼️ I am **ONLY** topologically homotopic to a [pallas's cat](https://en.wikipedia.org/wiki/Pallas%27s_cat)! (conjectured by Yang TIAN and proved by myself)
 
@@ -85,12 +85,15 @@ France -->
 1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
 1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct 2023.
 
+## Mini-courses
+
+1. Introduction to convex integration. Westlake University. 17 - 19 Mar 2026.
+1. Regularity of solutions to the Navier-Stokes equation with initial data in $\mathrm{BMO}^{-1}$. Westlake University. 11, 15, 24 Sep 2025.
 
 ## Seminar Talks
 
 1. Harmonic Analysis Seminar, Zhejiang University of Technology. 28 Jan 2026.
 1. ITS Postdoctoral Seminar, Westlake University. 18 Nov 2025.
-1. Mini-course on Analysis and Applied Math Seminar. Westlake University. 11, 15, 24 Sep 2025.
 1. Junior Analysis Seminar. Imperial College London. 25 June 2025.
 1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
 1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 Nov 2024.
@@ -148,4 +151,4 @@ Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-H
 
 ##
 
-Last updated: 05 Mar 2026.
+Last updated: 20 Mar 2026.
