@@ -75,7 +75,7 @@ France -->
 
 ## Conference Talks
 
-1. 9th Workshop on Mathematical Fluid Dynamics. 22 July 2026. Westlake University and Feishu Institute, China.
+1. Conference on Mathematical Fluid Dynamics. 22 July 2026. Westlake University and Feishu Institute, China.
 1. Singularities, non-uniqueness and complex dynamics of incompressible fluids. 2 June 2026. University of Bath, UK.
 1. 8th Workshop on Mathematical Fluid Dynamics. 9 May 2026. Westlake University, China.
 1. Tsinghua Reunion Workshop II. 29 June 2025. Tsinghua University, China.
