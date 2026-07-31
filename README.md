@@ -75,38 +75,42 @@ France -->
 
 ## Conference Talks
 
-1. Tsinghua Reunion Workshop II. Tsinghua University. 29 June 2025.
-1. Harmonic Analysis and Fluid Flow. Karlsruhe. 19 June 2025.
-1. 12th International Conference on Harmonic Analysis and Partial Differential Equations. El Escorial. 10 June 2025.
-1. Mathematics of fluids in motion: Recent results and trends. CIRM. 12 Nov 2024.
-1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 Nov 2024.
-1. Tsinghua Reunion Workshop. Tsinghua University. 22 July 2024.
-1. Recent advances in Harmonic Analysis. Satellite conference of 9th European Congress of Mathematics. 11 July 2024.
-1. Summer School on Harmonic Analysis in Harbin. Harbin Institute of Technology. 04 July 2024.
-1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct 2023.
+1. 9th Workshop on Mathematical Fluid Dynamics. 22 July 2026. Westlake University and Feishu Institute, China.
+1. Singularities, non-uniqueness and complex dynamics of incompressible fluids. 2 June 2026. University of Bath, UK.
+1. 8th Workshop on Mathematical Fluid Dynamics. 9 May 2026. Westlake University, China.
+1. Tsinghua Reunion Workshop II. 29 June 2025. Tsinghua University, China.
+1. Harmonic Analysis and Fluid Flow. 19 June 2025. Karlsruhe, Germany.
+1. 12th International Conference on Harmonic Analysis and Partial Differential Equations. 10 June 2025. El Escorial, Spain. 
+1. Mathematics of fluids in motion: Recent results and trends. 12 Nov 2024. CIRM, Marseille, France. 
+1. 1ère Rencontres d'Anaïs (Réseau Thématique ANAlyse et InteractionS). 04 Nov 2024. Créteil, France.
+1. Tsinghua Reunion Workshop. 22 July 2024. Tsinghua University, China.
+1. Recent advances in Harmonic Analysis, Satellite conference of 9th European Congress of Mathematics. 11 July 2024. Malaga, Spain.
+1. Summer School on Harmonic Analysis in Harbin. 04 July 2024. Harbin Institute of Technology, China.
+1. Oberwolfach Seminar 2343a: Recent Topics on the Navier-Stokes Equations. 24 Oct 2023. Oberwolfach, Germany.
 
 ## Mini-courses
 
-1. Introduction to convex integration. Westlake University. 17 - 19 Mar 2026.
-1. Regularity of solutions to the Navier-Stokes equation with initial data in $\mathrm{BMO}^{-1}$. Westlake University. 11, 15, 24 Sep 2025.
+1. Introduction to convex integration. 17-19 Mar 2026. Westlake University, China.
+1. Regularity of solutions to the Navier-Stokes equation with initial data in $\mathrm{BMO}^{-1}$. 11,15,24 Sep 2025. Westlake University, China.
 
 ## Seminar Talks
 
-1. Harmonic Analysis Seminar, Zhejiang University of Technology. 28 Jan 2026.
-1. ITS Postdoctoral Seminar, Westlake University. 18 Nov 2025.
-1. Junior Analysis Seminar. Imperial College London. 25 June 2025.
-1. Séminaire d'analyse. Laboratoire de Mathématiques et Modélisation d'Évry. 12 Dec 2024.
-1. Groupe de Travail des Thésard.e.s du LJLL. Sorbonne Université. 06 Nov 2024.
-1. Séminaire ANEDP. Institut de Mathématique d'Orsay. 20 June 2024.
-1. Analysis and Probability Seminar. University of Gothenburg and Chalmers University of Technology. 21 May 2024.
-1. Research Seminar of Workgroup Functional Analysis. Karlsruher Institut für Technologie. 07 May 2024.
-1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. Université de Nantes. 19 Feb 2024.
-1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). Sorbonne Université. 10 Oct 2023.
+1. Harmonic Analysis Seminar. 28 Jan 2026. Zhejiang University of Technology, China.
+1. ITS Postdoctoral Seminar. 18 Nov 2025. Westlake University, China.
+1. Junior Analysis Seminar. 25 June 2025. Imperial College London, UK.
+1. Séminaire d'analyse. 12 Dec 2024. Laboratoire de Mathématiques et Modélisation d'Évry, France.
+1. Groupe de Travail des Thésard.e.s du LJLL. 06 Nov 2024. Sorbonne Université, France.
+1. Séminaire ANEDP. 20 June 2024. Institut de Mathématique d'Orsay, France.
+1. Analysis and Probability Seminar. 21 May 2024. University of Gothenburg and Chalmers University of Technology, Sweden.
+1. Research Seminar of Workgroup Functional Analysis. 07 May 2024. Karlsruher Institut für Technologie, Germany.
+1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. 19 Feb 2024. Université de Nantes, France.
+1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). 10 Oct 2023. Sorbonne Université, France.
 
 ## Visit
 
-1. Institut de Mathématiques d'Orsay, École polytechnique, Université Paris-Cité. 16 - 25 Jan 2026.
-1. TU Delft. 13 - 16 Jan 2026.
+1. 
+1. Institut de Mathématiques d'Orsay, École polytechnique, Université Paris-Cité, France. 16 - 25 Jan 2026.
+1. TU Delft, Netherlands. 13 - 16 Jan 2026.
  
 ## Thesis
 
@@ -147,8 +151,8 @@ China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/),
 
 Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](https://profiles.imperial.ac.uk/h.xiang23/about), Qimeng ZHU.
 
-Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-HERMOSILLA](https://sites.google.com/view/gastonvh/home).
+<!-- Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-HERMOSILLA](https://sites.google.com/view/gastonvh/home). -->
 
 ##
 
-Last updated: 20 Mar 2026.
+Last updated: 31 July 2026.
