@@ -108,9 +108,9 @@ France -->
 
 ## Visit
 
-1. 
-1. Institut de Mathématiques d'Orsay, École polytechnique, Université Paris-Cité, France. 16 - 25 Jan 2026.
-1. TU Delft, Netherlands. 13 - 16 Jan 2026.
+1. Imperial College London. May 2026.
+1. Institut de Mathématiques d'Orsay, École polytechnique, Université Paris-Cité, France. Jan 2026.
+1. TU Delft, Netherlands. Jan 2026.
  
 ## Thesis
 
