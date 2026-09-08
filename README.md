@@ -70,6 +70,7 @@ France -->
 
 ## Preprints
 
+1. Form domination and tent space estimates for operators on the half-space. Joint with Pascal Auscher, Emiel Lorist and Andreas Rosén. HAL: [05733321](https://hal.science/hal-05733321).
 1. On non-uniqueness of mild solutions and stationary singular solutions to the Navier-Stokes equations. Joint with Alexey Cheskidov. arXiv: [2603.03666](https://arxiv.org/abs/2603.03666).
 1. On well-posedness for non-autonomous parabolic Cauchy problems with rough initial data. arXiv: [2505.09387](https://arxiv.org/abs/2505.09387).
 
@@ -149,10 +150,8 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
 
-Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](https://profiles.imperial.ac.uk/h.xiang23/about), Qimeng ZHU.
-
-<!-- Do you want to control sakura particles in fluids? Go and see [Gastón VERGARA-HERMOSILLA](https://sites.google.com/view/gastonvh/home). -->
+Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](https://sites.google.com/view/haolingxiang/home), Qimeng ZHU.
 
 ##
 
-Last updated: 31 July 2026.
+Last updated: 08 September 2026.
