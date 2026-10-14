@@ -1,8 +1,10 @@
 # Hedong HOU
 
-I am currently a Postdocral Researcher in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), working with [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
+I am currently a Postdocral Researcher at [Department of Mathematics](https://math.ethz.ch) of [ETH Zürich](https://ethz.ch/en.html), working with [Svitlana MAYBORODA](https://people.math.ethz.ch/~smayboroda/), funded by [Simons Initiative on Geometry of Flows](https://www.ias.edu/simonsgeometry).
 
-Before, I obtained my Ph.D. from [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor was Prof. Pascal AUSCHER. 
+Before, I worked in the [Mathematical Fluid Dynamics Group](https://its-mathfluids.lab.westlake.edu.cn) of [Westlake University](https://en.westlake.edu.cn), working with [Alexey CHESKIDOV](https://its-mathfluids.lab.westlake.edu.cn/info/1025/1008.htm).
+
+I obtained my Ph.D. from [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) of [Université Paris-Saclay](https://www.universite-paris-saclay.fr). My advisor was Prof. Pascal AUSCHER. 
 
 My research interest is on harmonic analysis and the Navier-Stokes equations. I am also interested in microlocal analysis and its applications in dynamical systems.
 
@@ -14,7 +16,15 @@ My Chinese name is 侯贺冬(HOU He Dong). I am also happy to be called "Ben" as
 
 ## Contacts 
 
-Professional email address: houhedong (at) westlake (dot) edu (dot) cn.
+Professional email address: hedong (dot) hou (at) math (dot) ethz (dot) ch.
+
+Professional address:\
+Bureau FO 28.8, Rämistrasse 101\
+Department of Mathematics, ETH Zürich\
+8092 Zürich\
+Switzerland
+
+<!-- Professional email address: houhedong (at) westlake (dot) edu (dot) cn.
 
 Professional address:\
 Bureau E14-409B, Institute for Theoretical Sciences\
@@ -23,7 +33,7 @@ Xihu District\
 310030 Hangzhou, Zhejiang\
 China
 
-<!-- Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
+ Professional email address: hedong (dot) hou (at) universite-paris-saclay (dot) fr.
 
 Professional address:\
 Bureau 2A19, Bâtiment 307, Rue Michel Magat\
@@ -33,7 +43,8 @@ France -->
 
 ## Employment
 
-* September 2025 -- present: Postdocal Researcher. Westlake University.
+* September 2026 -- present: Postdocal Researcher. ETH Zürich.
+* September 2025 -- September 2026: Postdocal Researcher. Westlake University.
 
 ## Education
 
@@ -45,6 +56,8 @@ France -->
 
 ## Teaching experience
 
+1. September 2026 -- January 2027. ETH Zürich. Teaching Assistant for "Functional Analysis I".
+1. March -- June 2026: Westlake University. Teaching Assistant for "Distributions and Fourier Analysis". 48h.
 1. September 2024 -- January 2025: École polytechnique. Teaching Assistant for FMA_2F002_EP "Topology and Multivariable Calculus". 56h.
 1. February -- June 2024: École polytechnique. Teaching assistant for MAA105 "Integral and Differential Calculus". 56h.
 1. February -- June 2021: Tsinghua University. Teaching assistant for Calculus(A)-2. 60h.
@@ -70,7 +83,8 @@ France -->
 
 ## Preprints
 
-1. Form domination and tent space estimates for operators on the half-space. Joint with Pascal Auscher, Emiel Lorist and Andreas Rosén. HAL: [05733321](https://hal.science/hal-05733321).
+1. Global existence of smooth solutions to the Navier-Stokes equations for initial data with infinite energy. Joint with Alexey Cheskidov. arXiv: [2610.18797](https://arxiv.org/abs/2610.18797).
+1. Form domination and tent space estimates for operators on the half-space. Joint with Pascal Auscher, Emiel Lorist and Andreas Rosén. arXiv: [2609.29712](https://arxiv.org/abs/2609.29712) <!-- HAL: [05733321](https://hal.science/hal-05733321). -->
 1. On non-uniqueness of mild solutions and stationary singular solutions to the Navier-Stokes equations. Joint with Alexey Cheskidov. arXiv: [2603.03666](https://arxiv.org/abs/2603.03666).
 1. On well-posedness for non-autonomous parabolic Cauchy problems with rough initial data. arXiv: [2505.09387](https://arxiv.org/abs/2505.09387).
 
@@ -96,6 +110,7 @@ France -->
 
 ## Seminar Talks
 
+1. Analysis Seminar. 08 October 2026. ETH Zürich, Switzerland.
 1. Harmonic Analysis Seminar. 28 Jan 2026. Zhejiang University of Technology, China.
 1. ITS Postdoctoral Seminar. 18 Nov 2025. Westlake University, China.
 1. Junior Analysis Seminar. 25 June 2025. Imperial College London, UK.
@@ -105,7 +120,7 @@ France -->
 1. Analysis and Probability Seminar. 21 May 2024. University of Gothenburg and Chalmers University of Technology, Sweden.
 1. Research Seminar of Workgroup Functional Analysis. 07 May 2024. Karlsruher Institut für Technologie, Germany.
 1. Séminaire d'analyse du Laboratoire de Mathématiques Jean Leray. 19 Feb 2024. Université de Nantes, France.
-1. [Groupe de Travail des Thésard.e.s du LJLL](https://www.ljll.math.upmc.fr/gtt/index.php). 10 Oct 2023. Sorbonne Université, France.
+1. Groupe de Travail des Thésard.e.s du LJLL. 10 Oct 2023. Sorbonne Université, France. <!-- (https://www.ljll.math.upmc.fr/gtt/index.php) -->
 
 ## Visit
 
@@ -154,4 +169,4 @@ Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](htt
 
 ##
 
-Last updated: 08 September 2026.
+Last updated: 14 October 2026.
