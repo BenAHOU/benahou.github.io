@@ -165,7 +165,7 @@ Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [
 
 China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
 
-Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoliang XIANG](https://sites.google.com/view/haolingxiang/home), Qimeng ZHU.
+Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoling XIANG](https://sites.google.com/view/haolingxiang/home), Qimeng ZHU.
 
 ##
 
