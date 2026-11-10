@@ -90,6 +90,7 @@ France -->
 
 ## Conference Talks
 
+1. Workshop on Free Boundary Problems. 03 Nov 2026. CRM, Barcelona, Spain.
 1. Conference on Mathematical Fluid Dynamics. 22 July 2026. Westlake University and Feishu Institute, China.
 1. Singularities, non-uniqueness and complex dynamics of incompressible fluids. 2 June 2026. University of Bath, UK.
 1. 8th Workshop on Mathematical Fluid Dynamics. 9 May 2026. Westlake University, China.
@@ -163,10 +164,10 @@ Here are some homepages of my dearest friends.
 
 Jinyuan LIU: He said that Jinyuan is not working hard enough, please click the [LINK](https://liu-jinyuan.github.io/) to push him.
 
-China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/links).
+China-Paris Mafia: Zhe CHEN, [Zuodong WANG](https://wangzuodong1997.github.io/), [Jiasheng LIN](https://daviddfforest.wordpress.com), [Tianqi WANG](https://sites.google.com/view/tianqiwang-math), [Yilin YE](https://yiliny.github.io/yiliny/yiye.html), [Xi CHEN](https://sites.google.com/view/xi-chens-webpage/home), [Haocheng YANG](https://hcyang-math.github.io/index.html), [Yuanyang JIANG](https://sites.google.com/view/yuanyang-jiang/homepage).
 
-Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoling XIANG](https://sites.google.com/view/haolingxiang/home), Qimeng ZHU.
+<!-- Teaching and Research Bureau - Paris Rive Gauche: Zhe CHEN, [Haoling XIANG](https://sites.google.com/view/haolingxiang/home), Qimeng ZHU. -->
 
 ##
 
-Last updated: 14 October 2026.
+Last updated: 10 November 2026.
